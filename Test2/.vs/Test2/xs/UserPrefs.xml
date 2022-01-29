@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1C5D68FC-D29B-9FA3-8B38-7561A4FC8CD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIFunctions.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StraightMoving.cs" Line="8" Column="23" />
+      <File FileName="Assets/Scripts/GravityController.cs" />
+      <File FileName="Assets/Scripts/PlatformsMove.cs" />
+      <File FileName="Assets/Scripts/UIFunctions.cs" Line="22" Column="30" />
+      <File FileName="Assets/Scripts/Score.cs" Line="18" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UIFunctions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bab51379-a716-472d-8647-004beca3f268" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
